@@ -1,6 +1,7 @@
 # Python Security Learning
-This repository contains my Python practice exercises while learning cybersecurity, networking, and programming fundamentals.
+This repository contains my Python practice exercises while learning cybersecurity, networking, cryprography and programming fundamentals.
 # Current Topics
+- Cryptopals Challenges
 - Login System
 - OTP Verification
 - Port Identifier
@@ -9,6 +10,8 @@ This repository contains my Python practice exercises while learning cybersecuri
 # Goals
 - Improve Python programming skills
 - Build a strong foundation for cybersecurity
+- Improve cryptography skills
+- Learn about different cyberattacks and how to defend against them
 - Learn problem-solving and logical thinking
 - Document my learning journey step by step
 # Notes
